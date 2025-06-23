@@ -4,7 +4,7 @@
 # Learn DevOps With Me
 
 A modern, vibrant blog for DevOps beginners and enthusiasts!  
-Check out the [blog here](https://pradyumna93.github.io/Learn-devops-with-me/) (after you enable GitHub Pages).
+Check out the [blog here](https://pradyumna93.github.io/Learn_devops_with_me/) (after you enable GitHub Pages).
 
 ## Features
 
