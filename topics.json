@@ -1,0 +1,25 @@
+[
+  {
+    "name": "CI/CD",
+    "slug": "ci-cd",
+    "posts": [
+      { "title": "Introduction to CI/CD", "file": "intro.md" },
+      { "title": "Best Practices for CI/CD", "file": "best-practices.md" }
+    ]
+  },
+  {
+    "name": "Containers",
+    "slug": "containers",
+    "posts": [
+      { "title": "Docker Basics", "file": "docker-basics.md" },
+      { "title": "Kubernetes 101", "file": "kubernetes-101.md" }
+    ]
+  },
+  {
+    "name": "Monitoring",
+    "slug": "monitoring",
+    "posts": [
+      { "title": "Observability in DevOps", "file": "observability.md" }
+    ]
+  }
+]
