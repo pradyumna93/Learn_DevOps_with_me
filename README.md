@@ -20,4 +20,4 @@ Check out the [blog here](https://pradyumna93.github.io/Learn_devops_with_me/) (
 
 ---
 
-Made with ❤️ by [pradyumna93](https://github.com/pradyumna93)
+Made by [❤️pradyumna](https://github.com/pradyumna93)
